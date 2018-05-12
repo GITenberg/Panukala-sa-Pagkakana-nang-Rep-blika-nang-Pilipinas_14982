@@ -1,0 +1,28 @@
+_repo: Panukala-sa-Pagkakana-nang-Rep-blika-nang-Pilipinas_14982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mabini, Apolinario
+    alias: Maranan, Apolinario Mabini y
+    birthdate: 1864
+    deathdate: 1903
+    gutenberg_agent_id: '5616'
+    url: http://www.gutenberg.org/2009/agents/5616
+    wikipedia: http://en.wikipedia.org/wiki/Apolinario_Mabini
+description: ''
+gutenberg_issued: '2005-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14982'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- Philippine American War, 1899-1902'
+- !lcc 'DS'
+title: Panukala sa Pagkakana nang Repúblika nang Pilipinas
+url: http://www.gutenberg.org/ebooks/14982
